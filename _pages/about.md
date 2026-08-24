@@ -1,12 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I'm Lawal 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Data Scientist with hands-on experience applying artificial intelligence and machine learning to develop innovative, data-driven solutions. Skilled across the full data science lifecycle, including data preparation, exploratory analysis, feature engineering, model development, and evaluation. Passionate about using advanced analytics to improve user experience, system performance, and decision-making, while emphasizing interpretability, scalability, and ethical use of data. Continuously driven to learn and apply emerging AI techniques to solve real-world problems and create measurable impact.
+## Featured Project
+👟 **Global Shoe Size Predictor** — A multi-output ML model predicting
+EU, US, UK, JP and CN shoe sizes across 5 global regions and 22 countries,
+grounded in real-world foot scan research data.
 
+🚀 [Live App](https://global-shoe-predictor-s44rkxwgtqfzid5mack7jx.streamlit.app/)
+💻 [GitHub Repo](https://github.com/aleey-lawal/global-shoe-predictor)
+
+Feel free to explore my [projects](/portfolio/), or connect with me on
+[GitHub](https://github.com/aleey-lawal) or on [LinkedIn](www.linkedin.com/in/aleey).
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
