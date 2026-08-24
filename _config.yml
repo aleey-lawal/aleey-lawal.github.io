@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Lawal Lawal Ali — Data Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Lawal Lawal Ali"
+description              : &description "Data Scientist | AI & Machine Learning | Python & SQL"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://aleey-lawal.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  avatar           : "images/profile.png"
+  name             : "Lawal Lawal Ali"
+  pronouns         : # example: "he/him"  
+  bio              : "Data Scientist with hands-on experience applying artificial intelligence and machine learning to develop innovative, data-driven solutions. Skilled across the full data science lifecycle, including data preparation, exploratory analysis, feature engineering, model development, and evaluation. Passionate about using advanced analytics to improve user experience, system performance, and decision-making, while emphasizing interpretability, scalability, and ethical use of data. Continuously driven to learn and apply emerging AI techniques to solve real-world problems and create measurable impact."
+  location         : "Nigeria"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lawalalilawal@gmail.com" 
 
   # Academic websites
   academia         : # URL
