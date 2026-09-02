@@ -17,13 +17,13 @@ research study covering **22 countries across 5 global regions**.
 ## 🔗 Links
 🚀 [Live App](https://global-shoe-predictor-s44rkxwgtqfzid5mack7jx.streamlit.app/)
 
-💻 [GitHub Repo](https://github.com/aleey-lawal/global-shoe-predictor)
+💻 [GitHub Repo](https://github.com/aleey-lawal/global-shoe-size-predictor)
 
-Feel free to explore my [Badges](https://www.credly.com/users/aleey)
+Feel free to explore my [Badges](https://www.credly.com/users/aleey-lawal)
 
 ---
 
 ## 📬 Get In Touch
 - 📧 [lawalalilawal@gmail.com](mailto:lawalalilawal@gmail.com)
 - 💻 [GitHub](https://github.com/aleey-lawal)
-- 💼 [LinkedIn](www.linkedin.com/in/aleey)
+- 💼 [LinkedIn](www.linkedin.com/in/aleey-lawal)
