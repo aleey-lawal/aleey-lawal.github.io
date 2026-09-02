@@ -12,8 +12,17 @@ Data Scientist with hands-on experience applying artificial intelligence and mac
 EU, US, UK, JP and CN shoe sizes across 5 global regions and 22 countries,
 grounded in real-world foot scan research data.
 
+## 🔗 Links
 🚀 [Live App](https://global-shoe-predictor-s44rkxwgtqfzid5mack7jx.streamlit.app/)
 💻 [GitHub Repo](https://github.com/aleey-lawal/global-shoe-predictor)
 
-Feel free to explore my [projects](/portfolio/) and my [Badges](https://www.credly.com/users/aleey), or connect with me on
-[GitHub](https://github.com/aleey-lawal) or on [LinkedIn](www.linkedin.com/in/aleey).
+---
+
+Feel free to explore my [Badges](https://www.credly.com/users/aleey)
+
+---
+
+## 📬 Get In Touch
+- 📧 [lawalalilawal@gmail.com](mailto:lawalalilawal@gmail.com)
+- 💻 [GitHub](https://github.com/aleey-lawal)
+- 💼 [LinkedIn](www.linkedin.com/in/aleey).
