@@ -14,9 +14,8 @@ grounded in real-world foot scan research data.
 
 ## 🔗 Links
 🚀 [Live App](https://global-shoe-predictor-s44rkxwgtqfzid5mack7jx.streamlit.app/)
-💻 [GitHub Repo](https://github.com/aleey-lawal/global-shoe-predictor)
 
----
+💻 [GitHub Repo](https://github.com/aleey-lawal/global-shoe-predictor)
 
 Feel free to explore my [Badges](https://www.credly.com/users/aleey)
 
