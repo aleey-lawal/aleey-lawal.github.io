@@ -26,4 +26,4 @@ Feel free to explore my [Badges](https://www.credly.com/users/aleey-lawal)
 ## 📬 Get In Touch
 - 📧 [lawalalilawal@gmail.com](mailto:lawalalilawal@gmail.com)
 - 💻 [GitHub](https://github.com/aleey-lawal)
-- 💼 [LinkedIn](www.linkedin.com/in/aleey-lawal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aleey-lawal/)
