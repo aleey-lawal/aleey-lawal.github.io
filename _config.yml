@@ -151,13 +151,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aleey-lawal"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/aleey-lawal"
-
 
 # Analytics
 analytics:
