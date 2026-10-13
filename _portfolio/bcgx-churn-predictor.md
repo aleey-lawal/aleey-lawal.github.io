@@ -35,6 +35,6 @@ include class_weight='balanced' and SMOTE oversampling.
 Python · scikit-learn · FastAPI · Uvicorn · Pandas · NumPy · Render.com
 
 ## Links
-- 🚀 [Live API](https://bcgx-churn-predictor.onrender.com)
-- 📖 [API Docs](https://bcgx-churn-predictor.onrender.com/docs)
+- 🚀 [Live API Homepage](https://bcgx-churn-predictor.onrender.com)
+- 📖 [Try the API Interactively](https://bcgx-churn-predictor.onrender.com/docs) ← submit data here
 - 💻 [GitHub Repo](https://github.com/aleey-lawal/bcgx-churn-predictor)
