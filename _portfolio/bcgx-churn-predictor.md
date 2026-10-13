@@ -31,10 +31,16 @@ include class_weight='balanced' and SMOTE oversampling.
 - Log-transformed consumption variables
 - One-hot encoded sales channel and campaign origin
 
+## How to Test the API
+1. Click **"Try the API Interactively"** link below
+2. Click **POST /predict → Try it out**
+3. Paste customer data in JSON format
+4. Click **Execute** to get the churn prediction
+
 ## Tech Stack
 Python · scikit-learn · FastAPI · Uvicorn · Pandas · NumPy · Render.com
 
 ## Links
 - 🚀 [Live API Homepage](https://bcgx-churn-predictor.onrender.com)
-- 📖 [Try the API Interactively](https://bcgx-churn-predictor.onrender.com/docs) ← submit data here
+- 📖 [Try the API Interactively](https://bcgx-churn-predictor.onrender.com/docs)
 - 💻 [GitHub Repo](https://github.com/aleey-lawal/bcgx-churn-predictor)
