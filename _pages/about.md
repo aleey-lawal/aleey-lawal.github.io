@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Lawal 👋
-
-Data Scientist with a background in Economics and hands-on experience across data science, machine learning, generative AI, NLP, and data analytics. I’m interested in turning data and emerging AI technologies into practical solutions that solve real problems, improve workflows, and support better decisions.
+I'm a Data Scientist with a background in Economics and hands-on experience across data science, machine learning, generative AI, NLP, and data analytics. I’m interested in turning data and emerging AI technologies into practical solutions that solve real problems, improve workflows, and support better decisions.
 
 At PPDC, I work with public-sector data for accountability research — building ETL workflows, automating data preparation, and developing interactive data products that combine anomaly detection and facility risk models to scrutinise public spending in Nigeria.
 
