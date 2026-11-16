@@ -1,3 +1,4 @@
+[Download CV (PDF)](/files/lawal-lawal-ali-data-scientist.pdf){: .btn}
 ---
 layout: archive
 title: "CV"
