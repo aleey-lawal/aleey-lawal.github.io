@@ -32,14 +32,19 @@ Translated modelling outputs into actionable retention recommendations for non-t
 
 
 **Education**
+
 B.Sc. Economics · Gombe State University, Nigeria · March 2014
 
-**Technical Skills**
+**Technical & Analytical Skills**
+
 Languages & Libraries: Python, SQL, HTML, Pandas, NumPy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, Plotly, Streamlit, Joblib, pdfplumber, openpyxl, scipy
+
 AI / NLP: Tokenization, NLTK, Text Preprocessing, Text Clustering, Text Summarization, Generative AI
+
 Tools & Platforms: Git, GitHub, Google BigQuery, PostgreSQL, MySQL, Amazon SageMaker, Power BI, Tableau, VS Code, Google Colab, Excel, PowerPoint
 
 **Certifications**
+
 The AI Awakening: Implications for the Economy and Society — Stanford University (Coursera, 2025)
 Responsible AI in the Generative AI Era — Fractal Analytics (Coursera, 2025)
 IBM Data Science Professional Certificate — IBM (Coursera, 2024)
