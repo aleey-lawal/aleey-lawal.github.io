@@ -46,9 +46,15 @@ Tools & Platforms: Git, GitHub, Google BigQuery, PostgreSQL, MySQL, Amazon SageM
 **Certifications**
 
 The AI Awakening: Implications for the Economy and Society — Stanford University (Coursera, 2025)
+
 Responsible AI in the Generative AI Era — Fractal Analytics (Coursera, 2025)
+
 IBM Data Science Professional Certificate — IBM (Coursera, 2024)
+
 IBM Applied Data Science Specialization — IBM (Coursera, 2024)
+
 Google Data Analytics Professional Certificate — Google (Coursera, 2024)
+
 Google Advanced Data Analytics Professional Certificate — Google (Coursera, 2024)
+
 Microsoft Power BI Data Analyst Professional Certificate — Microsoft (Coursera, 2024)
