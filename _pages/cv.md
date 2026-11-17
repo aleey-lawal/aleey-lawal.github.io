@@ -17,7 +17,7 @@ redirect_from:
 
 ● Automated data preprocessing tasks using Python, cutting dataset preparation time from hours to minutes across PPDC civic datasets.
 
-● Developed an end-to-end ML accountability pipeline on ₦57.1B in BHCPF disbursements — combining Isolation Forest, LOF, and Z-score
+●  Developed an end-to-end ML accountability pipeline on ₦57.1B in BHCPF disbursements — combining Isolation Forest, LOF, and Z-score
   anomaly detection with a Random Forest facility risk classifier (ROC-AUC 0.793) across 8,309 PHCs — deployed as an interactive            Streamlit app with a live citizen-facing accountability map.
 
 ● Contributed to a 7-year Nigeria Federal Budget accountability report covering ₦47.9tn in public expenditure.
