@@ -37,4 +37,5 @@ through to a deployed prediction API.
 Python · scikit-learn · FastAPI · Pandas · NumPy · Matplotlib · Seaborn
 
 ## Links
+[Live App](https://bcgx-churn-predictor.onrender.com/)
 - 💻 [GitHub Repo](https://github.com/aleey-lawal)
